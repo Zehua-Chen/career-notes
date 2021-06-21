@@ -15,6 +15,9 @@ Types of questions have a lot to do with the focus of the team/company
 
 # Behavioral Interview <div id="behavioral">
 
+- Entry level engineers are not evaluated on their past experiences, but on
+  their potential
+
 ## Projects
 
 For each item on the resume, be prepared to talk about

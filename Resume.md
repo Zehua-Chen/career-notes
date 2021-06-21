@@ -1,3 +1,13 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Experiences](#experiences)
+- [Projects](#projects)
+- [Technologies](#technologies)
+  - [Stigma](#stigma)
+- [Personal Information](#personal-information)
+
 # Overview
 
 - **Proof read**: Resumes may be thrown out for typos

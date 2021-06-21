@@ -1,19 +1,29 @@
 # Table of Contents
 
-- [Process](#process)
-- [Technical Interview](#technical)
-- [Behavioral Interview](#behavioral)
+- [Table of Contents](#table-of-contents)
+- [Process <div id="process">](#process-div-idprocess)
+- [Technical Interview](#technical-interview)
+- [Behavioral Interview](#behavioral-interview)
+  - [Projects](#projects)
+  - [Questions](#questions)
+    - [What's Your Weakness?](#whats-your-weakness)
+    - [What Questions Should You Ask the Interviewer?](#what-questions-should-you-ask-the-interviewer)
+      - [Genuine Questions](#genuine-questions)
+      - [Insightful Questions](#insightful-questions)
+      - [Passion Questions](#passion-questions)
+    - [Tell Us About Yourself](#tell-us-about-yourself)
+  - [Answering Behavioral Questions](#answering-behavioral-questions)
 
 # Process <div id="process">
 
 - Generally, if there are still interviews after the main coding interviews then
   it is a good sign
 
-# Technical Interview <div id="technical">
+# Technical Interview
 
 Types of questions have a lot to do with the focus of the team/company
 
-# Behavioral Interview <div id="behavioral">
+# Behavioral Interview
 
 - Entry level engineers are not evaluated on their past experiences, but on
   their potential

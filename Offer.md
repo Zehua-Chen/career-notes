@@ -1,3 +1,12 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Handling Offers](#handling-offers)
+  - [Evaluating Offers](#evaluating-offers)
+  - [Negotiation](#negotiation)
+  - [Declining Offers](#declining-offers)
+- [Handling Rejections](#handling-rejections)
+
 # Handling Offers
 
 ## Evaluating Offers

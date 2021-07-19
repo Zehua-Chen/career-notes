@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Process <div id="process">](#process-div-idprocess)
+- [Process](#process)
 - [Technical Interview](#technical-interview)
 - [Behavioral Interview](#behavioral-interview)
   - [Projects](#projects)
@@ -14,14 +14,22 @@
     - [Tell Us About Yourself](#tell-us-about-yourself)
   - [Answering Behavioral Questions](#answering-behavioral-questions)
 
-# Process <div id="process">
+# Process
 
 - Generally, if there are still interviews after the main coding interviews then
   it is a good sign
+- Don't be completely honest at the beginning
 
 # Technical Interview
 
 Types of questions have a lot to do with the focus of the team/company
+
+- Interviewer tests three areas
+  - Coding
+  - Algorithm (eq. Queue, Heap)
+    - Interviewer will give hints
+  - Problem solving: being able to abstract algorithm and other information
+- Strong hire typically involves explicit feedback
 
 # Behavioral Interview
 
